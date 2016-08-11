@@ -10,3 +10,5 @@ echo "alias $cmd=\"sh ~/.cache/.Cow/cow.sh\"" >> ~/.bashrc
 echo "alias $cmd=\"sh ~/.cache/.Cow/cow.sh\"" >> ~/.zshrc
 alias $cmd="sh ~/.cache/.Cow/cow.sh"
 echo "$cmd a ete cowdifier !"
+sleep 2
+clear
