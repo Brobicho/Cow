@@ -1,4 +1,4 @@
-Script de trolling pour un utilisateur de sh, bash ou zsh.
+Troll script pour un utilisateur de sh, bash ou zsh.
 
 Copier et exécuter cette commande
 
