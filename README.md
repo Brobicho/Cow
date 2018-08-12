@@ -1,4 +1,12 @@
+# COW
+
+---------------
+
+## Description
+
 Troll script pour un utilisateur de sh, bash ou zsh.
+
+## Utilisation
 
 Copier et exécuter cette commande
 
@@ -6,3 +14,5 @@ Copier et exécuter cette commande
 
 Il vous sera alors demandé quelle commande cowdifier. Nous conseillons rm, cd ou encore ls.
 Le script sera actif à la prochaine ouverture du terminal.
+
+by timfuzea & brobicho
